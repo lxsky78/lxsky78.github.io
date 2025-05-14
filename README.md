@@ -1,3 +1,5 @@
 # lxsky78.github.io
-<a href="main.html">Home</a>
-<meta http-equiv='refresh' content='0; URL=https://lxsky78.github.io/main.html'>
+<head>
+  <meta http-equiv='refresh' content='0; URL=https://lxsky78.github.io/main.html'>
+</head>
+<a href="main.html">If not automatically redirected, please click here</a>
